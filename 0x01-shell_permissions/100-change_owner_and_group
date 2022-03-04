@@ -1,2 +1,2 @@
 #!/bin/bash
-chown linuxize:users *
+chown -R linuxize:users
