@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -Rh linuxize:users
+chown vincent:staff
