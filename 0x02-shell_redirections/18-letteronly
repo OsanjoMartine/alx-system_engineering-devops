@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/ssh/sshd_config | cut -b 1 | grep [[:alpha:]]
